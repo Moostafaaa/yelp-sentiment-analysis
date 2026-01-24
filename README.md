@@ -3,7 +3,7 @@
 A professional NLP pipeline comparing TF-IDF/Logistic Regression and DistilBERT for sentiment classification.
 
 * Dataset Used: Yelp Polarity dataset.
-* Training Samples: 10,000 for Logistic Regression; 27,000 and 50,000 for DistilBERT.
+* Training Samples: 50,000 for Logistic Regression; 50,000 for DistilBERT.
 * TF‑IDF Baseline F1 Score: 0.9194.
 * DistilBERT F1 Score: 0.9561 (at 50,000 samples).
 * Best Performing Model: DistilBERT.
